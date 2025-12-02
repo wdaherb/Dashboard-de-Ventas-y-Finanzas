@@ -17,8 +17,11 @@ de ventas por categoría - Mapa con distribución por tipo de cliente
     📦 dashboard-powerbi
     ├── 📄 README.md
     ├── 📁 assets
-    │   ├── dashboard_preview.png
-    │   └── dataset_example.csv
+    │   ├── Vista_Previa.png
+    │   └── clientes.csv
+    │   └── productos.csv
+    │   └── vendedores.csv
+    │   └── ventas.csv
     └── 📁 pbix
         └── Dashboard_Ventas.pbix
 
@@ -29,42 +32,7 @@ de ventas por categoría - Mapa con distribución por tipo de cliente
 -   **Power Query** para transformación de datos
 -   **Mapas de Bing** integrados en Power BI
 
-## ➕ Medidas DAX Principales
-
-``` dax
-Total Ventas = SUM(Ventas[Total_Venta])
-
-Cantidad Ventas = SUM(Ventas[Cantidad])
-
-Utilidad = SUM(Ventas[Utilidad])
-
-Margen % = DIVIDE([Utilidad], [Total Ventas])
-
-Ticket Promedio = DIVIDE([Total Ventas], [Cantidad Ventas])
-```
-
 ## 📷 Vista Previa
 
 Agrega tu imagen del dashboard en la carpeta `assets` con el nombre
-`dashboard_preview.png`.
-
-## 🚀 Cómo usar este repositorio
-
-1.  Clona este repositorio:
-
-```{=html}
-<!-- -->
-```
-    git clone https://github.com/tuusuario/dashboard-powerbi.git
-
-2.  Abre el archivo `.pbix` en Power BI Desktop.
-3.  Examina las medidas, gráficos y transforma tu propio dataset.
-
-## 🙌 Contribuciones
-
-¡Sientete libre de mejorar o agregar nuevos dashboards!
-
-## 📩 Contacto
-
-Si necesitas ayuda o soporte, estoy disponible para consultorías en
-análisis financiero, FP&A y desarrollo de dashboards.
+`vista_previa.png`.
