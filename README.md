@@ -1,4 +1,4 @@
-![Vista previa](/assets/Vista%20Previa.png)
+![Vista previa](/assets/Vista_Previa.png)
 # Dashboard de Ventas y Finanzas
 
 Este repositorio contiene el dashboard desarrollado en **Power BI**,
