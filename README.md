@@ -33,7 +33,3 @@ de ventas por categoría - Mapa con distribución por tipo de cliente
 -   **Power Query** para transformación de datos
 -   **Mapas de Bing** integrados en Power BI
 
-## 📷 Vista Previa
-
-Agrega tu imagen del dashboard en la carpeta `assets` con el nombre
-`vista_previa.png`.
