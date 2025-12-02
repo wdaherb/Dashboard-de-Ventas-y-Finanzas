@@ -1,0 +1,6 @@
+ID_Producto,Nombre_Producto,Categoría,Subcategoría,Proveedor,Precio_Lista,Costo_Unitario
+P001,Laptop Pro 15,Tecnología,Computadoras,TechCorp,1200,900
+P002,Smartphone X,Tecnología,Celulares,MobileOne,800,600
+P003,Auriculares Pro,Accesorios,Audio,SoundMax,150,90
+P004,"Monitor 27""",Tecnología,Monitores,ViewPoint,300,200
+P005,Teclado Mecánico,Accesorios,Periféricos,KeyMaster,100,60

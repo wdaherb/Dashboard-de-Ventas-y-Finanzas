@@ -1,0 +1,11 @@
+ID_Vendedor,Nombre_Vendedor,Zona,Supervisor
+V001,Vendedor 1,Este,Supervisor A
+V002,Vendedor 2,Este,Supervisor A
+V003,Vendedor 3,Oeste,Supervisor A
+V004,Vendedor 4,Norte,Supervisor A
+V005,Vendedor 5,Este,Supervisor B
+V006,Vendedor 6,Norte,Supervisor B
+V007,Vendedor 7,Este,Supervisor B
+V008,Vendedor 8,Sur,Supervisor A
+V009,Vendedor 9,Norte,Supervisor B
+V010,Vendedor 10,Norte,Supervisor A

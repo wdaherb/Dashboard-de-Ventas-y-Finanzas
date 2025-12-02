@@ -1,0 +1,21 @@
+ID_Cliente,Nombre_Cliente,Ciudad,Región,País,Tipo_Cliente
+C001,Cliente 1,Tarija,Centro,Bolivia,Mayorista
+C002,Cliente 2,Cochabamba,Occidente,Bolivia,Minorista
+C003,Cliente 3,La Paz,Occidente,Bolivia,Minorista
+C004,Cliente 4,La Paz,Oriente,Bolivia,Minorista
+C005,Cliente 5,Tarija,Oriente,Bolivia,Mayorista
+C006,Cliente 6,Sucre,Oriente,Bolivia,Minorista
+C007,Cliente 7,Santa Cruz,Occidente,Bolivia,Mayorista
+C008,Cliente 8,La Paz,Centro,Bolivia,Minorista
+C009,Cliente 9,Santa Cruz,Occidente,Bolivia,Minorista
+C010,Cliente 10,Cochabamba,Centro,Bolivia,Mayorista
+C011,Cliente 11,La Paz,Centro,Bolivia,Mayorista
+C012,Cliente 12,Santa Cruz,Centro,Bolivia,Minorista
+C013,Cliente 13,Tarija,Occidente,Bolivia,Mayorista
+C014,Cliente 14,Santa Cruz,Centro,Bolivia,Minorista
+C015,Cliente 15,Sucre,Occidente,Bolivia,Minorista
+C016,Cliente 16,Tarija,Occidente,Bolivia,Mayorista
+C017,Cliente 17,Santa Cruz,Oriente,Bolivia,Minorista
+C018,Cliente 18,Cochabamba,Oriente,Bolivia,Mayorista
+C019,Cliente 19,Sucre,Centro,Bolivia,Mayorista
+C020,Cliente 20,La Paz,Centro,Bolivia,Mayorista
